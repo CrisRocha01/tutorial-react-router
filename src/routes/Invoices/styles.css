@@ -1,0 +1,12 @@
+.dblock {
+    display: block;
+}
+
+.nav-red {
+    color: red;
+    font-weight: bold;
+}
+.nav-blue {
+    color: blue;
+    font-weight: 400;
+}
